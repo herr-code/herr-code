@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hola, soy Herr-code 👋 <img width=80 height=80 align="right" src="giphy.gif" />
 
+## Acerca de mi...
+```js
+const herr-code = {
+  pronouns: "he/him",
+  code: ["JavaScript", "HTML", "CSS"],
+  tools: [],
+  community: [Launch X],
+  links: {},
+};
+```
 <!--
 **herr-code/herr-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
