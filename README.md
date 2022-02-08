@@ -5,7 +5,8 @@
 const herr-code = {
   pronouns: "he/him",
   code: ["JavaScript", "HTML", "CSS"],
-  tools: ["Git", "Github"],
+  tools: ["Git", "Jupyter notebooks"],
+  codeEditors: ["VSCode", "Sublime Text 3"]
   community: ["Launch X"],
   links: {},
 };
