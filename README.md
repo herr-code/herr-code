@@ -1,4 +1,4 @@
-![Banner](banner.jpg)
+![Banner](banner.png)
 ### Hola, soy Herr-code 👋 <img width=80 height=80 align="center" src="giphy.gif" />
 
 ## Acerca de mi...
