@@ -6,7 +6,10 @@
 const herr-code = {
   pronouns: "he/him",
   code: ["JavaScript", "HTML", "CSS"],
+  testing: ["Jest JS"],
   tools: ["Figma", "Jupyter notebooks"],
+  cms: ["Wordpress"],
+  ssg: ["Hugo"],
   codeEditors: ["VSCode", "Sublime Text 3"],
   community: ["Launch X", "Innovacción Virtual"],
   links: {},
