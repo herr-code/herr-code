@@ -5,7 +5,11 @@
 ```js
 const herr-code = {
   pronouns: "he/him",
-  code: ["JavaScript", "HTML", "CSS"],
+  code: ["JavaScript", "HTML", "CSS", "PHP"],
+  libraries: ["JQuery"],
+  frameworksCSS: ["Bootstrap", "Materialize", "Bulma"],
+  frameworksJS: ["Vue 3 JS"],
+  frameworksPHP: ["Laravel"],
   testing: ["Jest JS"],
   tools: ["Figma", "Jupyter notebooks"],
   cms: ["Wordpress"],
@@ -20,7 +24,7 @@ const herr-code = {
     }
 };
 
-frameworks = async () => await learn('Vue3.js');
+frameworks = async () => await learn('React.js');
 node = async () => await learn()
 ```
 <!--
